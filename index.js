@@ -28,4 +28,3 @@
 // const showResult = luasBalok(5, 2, 2)
 // console.log(showResult)
 
-//soal nomor 3
